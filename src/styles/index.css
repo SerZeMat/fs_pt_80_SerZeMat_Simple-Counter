@@ -1,0 +1,20 @@
+.my__Counter {
+    background: black;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    color: white;
+    gap: 2rem;
+    border-radius: 5rem;
+}
+.btn {
+    padding: 1rem;
+    gap: 2rem;
+    cursor: pointer;
+}
+.my__Button {
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+
+}
